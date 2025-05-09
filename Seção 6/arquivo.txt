@@ -1,0 +1,4 @@
+Teste de write no arquivo
+Manipulando um arquivo de texto com python
+Adicionando texto ao arquivo utilizando append (a)
+Texto texto texto texto texto
